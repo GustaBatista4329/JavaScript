@@ -1,0 +1,26 @@
+@charset "UFT-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #005663;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    background-color: white;
+    width: 800px;
+    height: 110px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 30px;
+    font-size: 3em;
+    font-weight: bolder;
+}
